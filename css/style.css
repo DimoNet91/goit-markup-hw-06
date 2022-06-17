@@ -736,6 +736,10 @@ body {
   border: none;
   margin-left: 124px;
 }
+.subscribe-btn-icon {
+  margin-left: 10px;
+  fill: var(--button-color);
+}
 .input-wrap {
   position: relative;
 }
